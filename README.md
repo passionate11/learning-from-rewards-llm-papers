@@ -377,6 +377,8 @@ We welcome contributions from the community, so feel free to submit pull request
 
 - **When can llms actually correct their own mistakes? a critical survey of self-correction of llms**. arXiv, 2024. [paper](https://arxiv.org/pdf/2406.01297)
 
+- **Translate-and-Revise: Boosting Large Language Models for Constrained Translation**. CCL, 2024. [paper](https://aclanthology.org/2024.ccl-1.82.pdf)
+
 - **Enhancing llm reasoning via critique models with test-time and training-time supervision**. arXiv, 2024. [paper](https://arxiv.org/pdf/2411.16579)
 
 - **Two Heads Are Better Than One: Dual-Model Verbal Reflection at Inference-Time**. arXiv, 2025. [paper](https://arxiv.org/pdf/2502.19230)
